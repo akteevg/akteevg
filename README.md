@@ -18,7 +18,7 @@
 </p>
 
 ## 📬 My contacts:
-- Telegram: [@akteevg](https://t.me/WhiteIron)
+- Telegram: [@WhiteIron](https://t.me/WhiteIron)
 - Email: Eugene.Aktemirov@gmail.com
 
 
