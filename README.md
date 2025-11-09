@@ -18,8 +18,10 @@
 </p>
 
 ## 📬 My contacts:
-- Telegram: [@WhiteIron](https://t.me/WhiteIron)
-- Email: Eugene.Aktemirov@gmail.com
+<p>
+  <a href="https://t.me/WhiteIron"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=fff" alt="Telegram" /></a>
+  <a href="mailto:Eugene.Aktemirov@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff" alt="Email" /></a>
+</p>
 
 
 <!--
